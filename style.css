@@ -2,7 +2,7 @@ a{
     font-family: 'Sen', sans-serif;
     color: green;
     font-size: 30px; 
-    text-decoration-line: none;
+    text-decoration: none;
 }
 
 a:hover {
